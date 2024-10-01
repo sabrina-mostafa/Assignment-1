@@ -4,7 +4,7 @@
 ## "A Sample Resume Creation using HTML & CSS only"
 <br/>
 
-    live link : https://sabrina-mostafa.github.io/FrontEnd_Course--Assignment-1/
+    live link : https://sabrina-mostafa.github.io/FrontEnd_Course--Assignment-1_-Resume-/
 
 ## My site is live at :
- https://sabrina-mostafa.github.io/FrontEnd_Course--Assignment-1/
+https://sabrina-mostafa.github.io/FrontEnd_Course--Assignment-1_-Resume-/
